@@ -1,6 +1,6 @@
 #include <M5Cardputer.h>
 #include <WiFi.h>
-
+#include "splash.h"
 #define MAX_CHANNELS 13
 #define SCREEN_WIDTH 240
 #define SCREEN_HEIGHT 135
